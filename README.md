@@ -1,4 +1,4 @@
-##C++ - Rental Database App
+##C++ - Rental DB - Binary Search Tree
 
 ###Foreword
 Repos like this one contain old work that I did during my time at Portland State University. Most of these projects were completed in the Data Structures or Computer Systems Programming courses. These projects demonstrate my solid understanding of programming basics as well as familiarity with fundamental system architectures. Each project is meticulously commented and the provided design write-up discusses some of the implementation choices I made when creating these projects.
